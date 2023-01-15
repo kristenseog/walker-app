@@ -6,7 +6,7 @@ Extended/custom version from the scrimba's passanger app
 Open the [Walker Counter App]([https://deploy-preview-1--walkercounter.netlify.app/index2])
 
 ## Features
-Counter App includes:
+Counter App includes: 
 - Increment function to count the walkers
 - Save function to keep track in each episode/series
 
