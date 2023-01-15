@@ -11,7 +11,7 @@ Counter App includes:
 - Save function to keep track in each episode/series
 
 ## Screenshot
-![image](![image](https://user-images.githubusercontent.com/117180862/212567900-d65af52a-5bc2-46af-80ab-93eaad58115c.png))
+![image](https://user-images.githubusercontent.com/117180862/212567951-8490690d-12fa-4399-87ca-d5b8639451f1.png)
 
 ##Deployment
 -GitHub Page
