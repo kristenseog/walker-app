@@ -14,8 +14,8 @@ Counter App includes:
 ![image](https://user-images.githubusercontent.com/117180862/212568005-6f199e80-d69c-47d3-b760-d8a8ec4e5ec0.png)
 
 ## Deployment
--GitHub Page
--Netlify
+- GitHub Page
+- Netlify
 
 ## Credits
 Thank you scrimba for this practice projects.
