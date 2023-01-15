@@ -3,7 +3,7 @@ Count along the number of walkers in the "The Walking Dead" TV Show:)))
 Extended/custom version from the scrimba's passanger app
 
 ## Demo
-Open the [Walker Counter App]([https://deploy-preview-1--walkercounter.netlify.app/index2])
+Open the [Walker Counter App]([https://deploy-preview-1--walkercounter.netlify.app/index2]) 
 
 ## Features
 Counter App includes: 
